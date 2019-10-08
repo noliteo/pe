@@ -7,7 +7,7 @@ module Solution
 
 # Find the sum of the digits in the number 100!
   def problem20(input=100)
-    p "hi"
+    p "Problem 20"
     res, ans = 1, 0
 
     (1..input).each do |n|
